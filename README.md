@@ -1,2 +1,2 @@
 # AIverse
-AIverse website fronted design
+AIverse website fronted design using HTML and css
